@@ -1,0 +1,51 @@
+# 
+# Translators:
+# David Ortiz <laxdavidlax@hotmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: ProjectSend\n"
+"POT-Creation-Date: 2017-05-16 00:55-0300\n"
+"PO-Revision-Date: 2018-03-17 20:56+0000\n"
+"Last-Translator: David Ortiz <laxdavidlax@hotmail.com>\n"
+"Language-Team: Spanish (Colombia) (http://www.transifex.com/subwaydesign/projectsend/language/es_CO/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_CO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: template.php:18
+msgid "Gallery"
+msgstr "Galería"
+
+#: template.php:61
+msgid "Logout"
+msgstr "Salir"
+
+#: template.php:62
+msgid "Upload files"
+msgstr "Subir archivos"
+
+#: template.php:71
+msgid "Filter by category"
+msgstr "Filtrar por categoría"
+
+#: template.php:74
+msgid "All files"
+msgstr "Todos los archivos"
+
+#: template.php:107
+msgid "There are no files."
+msgstr "No hay archivos"
+
+#: template.php:121
+msgid "File expired"
+msgstr "Archivo caducado"
+
+#: template.php:140
+msgid "Download original"
+msgstr "Descargar original"

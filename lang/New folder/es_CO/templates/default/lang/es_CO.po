@@ -1,0 +1,120 @@
+# 
+# Translators:
+# David Ortiz <laxdavidlax@hotmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: ProjectSend\n"
+"POT-Creation-Date: 2016-09-14 15:42-0300\n"
+"PO-Revision-Date: 2018-03-17 21:12+0000\n"
+"Last-Translator: David Ortiz <laxdavidlax@hotmail.com>\n"
+"Language-Team: Spanish (Colombia) (http://www.transifex.com/subwaydesign/projectsend/language/es_CO/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_CO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: template.php:15
+msgid "File downloads"
+msgstr "Descargas de archivos"
+
+#: template.php:43
+msgid "Search"
+msgstr "Buscar"
+
+#: template.php:52
+msgid "All categories"
+msgstr "Todas las categorias"
+
+#: template.php:59
+msgid "Filter"
+msgstr "Filtro"
+
+#: template.php:72
+msgid "Selected files actions"
+msgstr "Acciones de archivos seleccionados"
+
+#: template.php:74
+msgid "Download zipped"
+msgstr "Descargar comprimido"
+
+#: template.php:76
+msgid "Proceed"
+msgstr "Proceder"
+
+#: template.php:85
+msgid "Showing"
+msgstr "Demostración"
+
+#: template.php:85
+msgid "files"
+msgstr "Archivos"
+
+#: template.php:95
+msgid "Your search keywords returned no results."
+msgstr "Las palabras clave de búsqueda no arrojaron resultados."
+
+#: template.php:100
+msgid "There are no files available."
+msgstr "No hay archivos disponibles"
+
+#: template.php:112
+msgid "Title"
+msgstr "Título"
+
+#: template.php:113
+msgid "Ext."
+msgstr "Ext."
+
+#: template.php:114
+msgid "Description"
+msgstr "Descripción"
+
+#: template.php:115
+msgid "Size"
+msgstr "Tamaño"
+
+#: template.php:116
+msgid "Date"
+msgstr "Fecha"
+
+#: template.php:117
+msgid "Expiration date"
+msgstr "Fecha de caducidad"
+
+#: template.php:118
+msgid "Image preview"
+msgstr "Vista previa de imagen"
+
+#: template.php:119 template.php:235
+msgid "Download"
+msgstr "Descargar"
+
+#: template.php:192
+msgid "Never"
+msgstr "Nunca"
+
+#: template.php:205
+msgid "File expired"
+msgstr "Archivo caducado"
+
+#: template.php:249
+msgid "Results navigation"
+msgstr "Resultados de navegación"
+
+#: template.php:268
+msgid "Please select at least one file to proceed."
+msgstr "Seleccione al menos un archivo para continuar."
+
+#: template.php:283
+msgid "Please wait while your download is prepared."
+msgstr "Por favor espere mientras su descarga está preparada."
+
+#: template.php:284
+msgid ""
+"This operation could take a few minutes, depending on the size of the files."
+msgstr "Esta operación podría demorar unos minutos, dependiendo del tamaño de los archivos."
